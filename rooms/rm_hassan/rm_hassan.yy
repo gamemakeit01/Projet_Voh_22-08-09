@@ -49,7 +49,7 @@
     "path": "folders/Pièces/rm_travail.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rm_03",
+  "name": "rm_hassan",
   "tags": [],
   "resourceType": "GMRoom",
 }

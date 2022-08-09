@@ -17,3 +17,8 @@ function check_collision_verti(){
 	}
 	//show_debug_message("y2:" + string(y));
 }
+
+function check_collision_fall(){
+	if(place_empty(x,y + 0.5,obj_platform)) return true;
+	else return false
+}

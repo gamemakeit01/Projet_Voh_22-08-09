@@ -10,11 +10,15 @@ if !place_meeting(x, y+1, obj_platform){
 if(keyboard_check(vk_left) && !place_meeting(x-speedRun, y - 0.5, obj_platform)){
 	x -=speedRun;
 	check_collision_hori();
+	animation = ani_run;
+	invScale(-1);
 }
 
 if(keyboard_check(vk_right) && !place_meeting(x+speedRun, y - 0.5, obj_platform)){
 	x +=speedRun;
 	check_collision_hori();
+	animation = ani_run;
+	invScale(1)
 }
 
 if(keyboard_check_pressed(vk_up) && !check_collision_fall()){
@@ -29,3 +33,8 @@ if(keyboard_check_released(vk_up)){
 if(isJump){
 	y = y - fjump;
 }
+
+if(xprevious - x == 0 && yprevious - y == 0) animation = ani_idle;
+
+show_debug_message(image_xscale);
+sprite_index = animation

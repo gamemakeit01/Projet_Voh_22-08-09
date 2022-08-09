@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "Signs__2_",
-    "path": "sprites/Signs__2_/Signs__2_.yy",
+    "name": "Sprite83",
+    "path": "sprites/Sprite83/Sprite83.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -29,7 +29,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object11",
+  "name": "obj_Boggie_Woogie",
   "tags": [],
   "resourceType": "GMObject",
 }

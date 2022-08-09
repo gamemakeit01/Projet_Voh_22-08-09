@@ -1,5 +1,5 @@
 {
-  "bboxMode": 2,
+  "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
   "origin": 9,
@@ -54,7 +54,7 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 450,
+    "xorigin": 445,
     "yorigin": 731,
     "eventToFunction": {},
     "eventStubScript": null,
@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "spr_avatars",
-    "path": "folders/Sprites/spr_avatars.yy",
+    "name": "spr_Avatars_Player",
+    "path": "folders/Sprites/spr_avatars/spr_Avatars_Player.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_avatar_temp",

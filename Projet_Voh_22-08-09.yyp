@@ -7,6 +7,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":2,},
     {"id":{"name":"rm_paul","path":"rooms/rm_paul/rm_paul.yy",},"order":2,},
     {"id":{"name":"rm_hassan","path":"rooms/rm_hassan/rm_hassan.yy",},"order":3,},
+    {"id":{"name":"check_collision","path":"scripts/check_collision/check_collision.yy",},"order":0,},
     {"id":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},"order":0,},
     {"id":{"name":"spr_avatar_temp","path":"sprites/spr_avatar_temp/spr_avatar_temp.yy",},"order":0,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":1,},

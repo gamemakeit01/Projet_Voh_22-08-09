@@ -17,9 +17,9 @@ if(keyboard_check(vk_right) && !place_meeting(x+speedRun, y - 0.5, obj_platform)
 	check_collision_hori();
 }
 
-if(keyboard_check_pressed(vk_up)){
+if(keyboard_check_pressed(vk_up) && !check_collision_fall()){
 	isJump = true;
-	alarm[0] = 20;
+	alarm[0] = timeJump;
 }
 
 if(keyboard_check_released(vk_up)){
@@ -27,10 +27,9 @@ if(keyboard_check_released(vk_up)){
 }
 
 if(isJump){
-	y = y - 10;
+	y = y - fjump;
 }
 
-//check_collision_hori();
 
 
 

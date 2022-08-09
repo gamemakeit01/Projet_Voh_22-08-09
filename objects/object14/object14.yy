@@ -1,6 +1,9 @@
 {
-  "spriteId": null,
-  "solid": false,
+  "spriteId": {
+    "name": "Cartoon_Town_Decoration___Rock_03",
+    "path": "sprites/Cartoon_Town_Decoration___Rock_03/Cartoon_Town_Decoration___Rock_03.yy",
+  },
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -29,7 +32,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "Object14",
   "tags": [],
   "resourceType": "GMObject",
 }

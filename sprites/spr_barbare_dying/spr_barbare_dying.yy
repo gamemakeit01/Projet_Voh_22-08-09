@@ -126,7 +126,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Barbare",
-    "path": "folders/Sprites/spr_avatars/spr_Avatars_Player/Barbare.yy",
+    "path": "folders/Sprites/spr_avatars/spr_Ennemi/Barbare.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_barbare_dying",

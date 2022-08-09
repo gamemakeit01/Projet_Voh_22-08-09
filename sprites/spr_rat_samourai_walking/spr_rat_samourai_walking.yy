@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 238,
+  "bbox_right": 796,
+  "bbox_top": 94,
+  "bbox_bottom": 764,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 1080,
+  "height": 900,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"ace0b2c5-2075-4462-b481-079a9a3a52d8","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ace0b2c5-2075-4462-b481-079a9a3a52d8","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"ace0b2c5-2075-4462-b481-079a9a3a52d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bf782515-90ad-4d01-a069-1ad924a23ebe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bf782515-90ad-4d01-a069-1ad924a23ebe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"bf782515-90ad-4d01-a069-1ad924a23ebe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3d21b0cd-d18d-4003-9397-63fab0445429","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3d21b0cd-d18d-4003-9397-63fab0445429","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"3d21b0cd-d18d-4003-9397-63fab0445429","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"efc0a2d7-0a14-4a72-ad9f-2f54121b0e95","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"efc0a2d7-0a14-4a72-ad9f-2f54121b0e95","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"efc0a2d7-0a14-4a72-ad9f-2f54121b0e95","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8748b7d6-7c74-4d16-91ad-4bec60650f2f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8748b7d6-7c74-4d16-91ad-4bec60650f2f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"8748b7d6-7c74-4d16-91ad-4bec60650f2f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fa7b37e7-81f6-4662-ae89-0a33fa50eb37","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fa7b37e7-81f6-4662-ae89-0a33fa50eb37","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"fa7b37e7-81f6-4662-ae89-0a33fa50eb37","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"edb98eaf-ae2b-46f2-9bbc-c330c7bd6a0e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"edb98eaf-ae2b-46f2-9bbc-c330c7bd6a0e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"edb98eaf-ae2b-46f2-9bbc-c330c7bd6a0e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7ef7e866-adc7-4829-b9fa-5518252b2cb9","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7ef7e866-adc7-4829-b9fa-5518252b2cb9","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"7ef7e866-adc7-4829-b9fa-5518252b2cb9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1ffde032-72ea-46eb-b262-11326deddc61","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1ffde032-72ea-46eb-b262-11326deddc61","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"1ffde032-72ea-46eb-b262-11326deddc61","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ce7b1739-5a03-4c5c-8b56-1c6fda0b9d65","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ce7b1739-5a03-4c5c-8b56-1c6fda0b9d65","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"ce7b1739-5a03-4c5c-8b56-1c6fda0b9d65","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cbd60f56-b7bd-47be-acc8-addeaa7bc750","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cbd60f56-b7bd-47be-acc8-addeaa7bc750","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"cbd60f56-b7bd-47be-acc8-addeaa7bc750","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"55bf7b89-902e-47fc-9f0e-5c536437ae23","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"55bf7b89-902e-47fc-9f0e-5c536437ae23","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"55bf7b89-902e-47fc-9f0e-5c536437ae23","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"93723dd9-b12c-408c-b36e-6e419bc529ed","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"93723dd9-b12c-408c-b36e-6e419bc529ed","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"93723dd9-b12c-408c-b36e-6e419bc529ed","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f5e68d49-705e-42d8-a782-6ab730c5d0ae","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f5e68d49-705e-42d8-a782-6ab730c5d0ae","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"f5e68d49-705e-42d8-a782-6ab730c5d0ae","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b3489ad-83f9-4b9a-8d7b-dc0035774399","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b3489ad-83f9-4b9a-8d7b-dc0035774399","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"6b3489ad-83f9-4b9a-8d7b-dc0035774399","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"312c240f-fc9c-4303-a537-652897a22f3f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"312c240f-fc9c-4303-a537-652897a22f3f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"312c240f-fc9c-4303-a537-652897a22f3f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2ad310bb-5b09-4d77-895d-11db8290fe81","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2ad310bb-5b09-4d77-895d-11db8290fe81","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"2ad310bb-5b09-4d77-895d-11db8290fe81","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09f15826-1dcf-483b-980a-7e67d6dd3a07","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09f15826-1dcf-483b-980a-7e67d6dd3a07","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"09f15826-1dcf-483b-980a-7e67d6dd3a07","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9930509c-8664-4ee9-b81d-f5ea6052f6fe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9930509c-8664-4ee9-b81d-f5ea6052f6fe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"9930509c-8664-4ee9-b81d-f5ea6052f6fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"da5d6ac6-5e2e-4df5-b308-dd08b423c15e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"da5d6ac6-5e2e-4df5-b308-dd08b423c15e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"da5d6ac6-5e2e-4df5-b308-dd08b423c15e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8522e317-e0ee-4290-b208-3decfcb71c26","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8522e317-e0ee-4290-b208-3decfcb71c26","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"8522e317-e0ee-4290-b208-3decfcb71c26","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"05136122-391a-4936-938c-ed9d0039cd5d","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"05136122-391a-4936-938c-ed9d0039cd5d","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"05136122-391a-4936-938c-ed9d0039cd5d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7084ea55-36d3-4516-8f64-e292c6942b63","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7084ea55-36d3-4516-8f64-e292c6942b63","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"7084ea55-36d3-4516-8f64-e292c6942b63","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2b8e98ff-9741-46d2-a8ea-68f5194499be","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2b8e98ff-9741-46d2-a8ea-68f5194499be","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"LayerId":{"name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","name":"2b8e98ff-9741-46d2-a8ea-68f5194499be","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"490aa591-fabd-457d-9160-62c5e4859239","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ace0b2c5-2075-4462-b481-079a9a3a52d8","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"a25bd9b6-ab37-4f10-9741-1848ee92285b","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf782515-90ad-4d01-a069-1ad924a23ebe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"e7485e7d-0560-468e-8dd9-ff6f52884dad","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d21b0cd-d18d-4003-9397-63fab0445429","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"e360d63e-2831-4f87-aed0-6dc61a65526c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"efc0a2d7-0a14-4a72-ad9f-2f54121b0e95","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"d8ff851f-7d81-405f-84f1-fb6382142713","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8748b7d6-7c74-4d16-91ad-4bec60650f2f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"83306ef4-d097-4991-b48b-d12dd2160aa3","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa7b37e7-81f6-4662-ae89-0a33fa50eb37","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"9b162457-970d-43fe-9618-f4828f4c3b6b","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"edb98eaf-ae2b-46f2-9bbc-c330c7bd6a0e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"a9031a4d-5cdf-4077-915a-eaa76db89a07","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ef7e866-adc7-4829-b9fa-5518252b2cb9","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"f3c1121e-c750-4db8-84fc-6ccb373d93b4","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1ffde032-72ea-46eb-b262-11326deddc61","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"c8664d42-641d-4ece-864d-86a309b8271b","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce7b1739-5a03-4c5c-8b56-1c6fda0b9d65","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"5c48bbfd-cc76-47a3-b61d-f022c58955d8","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cbd60f56-b7bd-47be-acc8-addeaa7bc750","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"7c707b1e-7175-44d3-802c-09fe83ef8c9f","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"55bf7b89-902e-47fc-9f0e-5c536437ae23","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"36882131-865c-4e81-8faa-c5c1ea84cd26","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"93723dd9-b12c-408c-b36e-6e419bc529ed","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"d2915b5c-dead-4ed9-b8d5-c06de70c615b","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f5e68d49-705e-42d8-a782-6ab730c5d0ae","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"97c497bd-130b-4090-a45e-77a35d765e71","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b3489ad-83f9-4b9a-8d7b-dc0035774399","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"4bc2395f-646b-49a0-8b59-366d50fd3b14","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"312c240f-fc9c-4303-a537-652897a22f3f","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"bff19bdd-1dbc-449e-b29d-549358f9f7f0","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ad310bb-5b09-4d77-895d-11db8290fe81","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"f4dd9762-1766-43be-b86f-67a33f6c1941","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09f15826-1dcf-483b-980a-7e67d6dd3a07","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"78387646-daf8-4e8b-9999-44cc3210b644","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9930509c-8664-4ee9-b81d-f5ea6052f6fe","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"09000431-f317-46ab-95d7-d488a85ca660","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da5d6ac6-5e2e-4df5-b308-dd08b423c15e","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"df454cc2-ddff-4cec-95e3-a4336ee3227f","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8522e317-e0ee-4290-b208-3decfcb71c26","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"ccfb64b0-0d0d-4825-b00f-90f28415cef1","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05136122-391a-4936-938c-ed9d0039cd5d","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"0a2c0218-f0f7-4003-997f-0ef6bd7fab03","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7084ea55-36d3-4516-8f64-e292c6942b63","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"25f8a672-4b3f-4d66-8c86-02fff0b72f03","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2b8e98ff-9741-46d2-a8ea-68f5194499be","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 0,
+    "yorigin": 0,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},
+    "resourceVersion": "1.4",
+    "name": "spr_Rat_Samourai_Walking",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6a67b512-635b-4eef-bfaa-d99dd7757c22","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Rat_Samourai",
+    "path": "folders/Sprites/spr_avatars/spr_Ennemi/Rat_Samourai.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_Rat_Samourai_Walking",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

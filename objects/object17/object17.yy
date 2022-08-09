@@ -1,14 +1,14 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Cartoon_Town_Decoration___Stump_02",
+    "path": "sprites/Cartoon_Town_Decoration___Stump_02/Cartoon_Town_Decoration___Stump_02.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_platform",
-    "path": "objects/obj_platform/obj_platform.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -29,7 +29,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "Object17",
   "tags": [],
   "resourceType": "GMObject",
 }

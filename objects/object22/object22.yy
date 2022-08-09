@@ -1,13 +1,16 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Cartoon_Town___Custom_Decoration___Spikes",
+    "path": "sprites/Cartoon_Town___Custom_Decoration___Spikes/Cartoon_Town___Custom_Decoration___Spikes.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_platform",
-    "path": "objects/obj_platform/obj_platform.yy",
+    "name": "obj_dead",
+    "path": "objects/obj_dead/obj_dead.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -29,7 +32,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "Object22",
   "tags": [],
   "resourceType": "GMObject",
 }

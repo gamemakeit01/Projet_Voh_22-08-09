@@ -1,14 +1,14 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Cartoon_Town_Decoration___Medium_Tree",
+    "path": "sprites/Cartoon_Town_Decoration___Medium_Tree/Cartoon_Town_Decoration___Medium_Tree.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_platform",
-    "path": "objects/obj_platform/obj_platform.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -29,7 +29,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "Object20",
   "tags": [],
   "resourceType": "GMObject",
 }

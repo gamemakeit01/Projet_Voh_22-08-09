@@ -104,6 +104,7 @@
     {"id":{"name":"obj_Boggie_Woogie","path":"objects/obj_Boggie_Woogie/obj_Boggie_Woogie.yy",},"order":12,},
     {"id":{"name":"spr_monstre05_75","path":"sprites/spr_monstre05_75/spr_monstre05_75.yy",},"order":6,},
     {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},"order":10,},
+    {"id":{"name":"detectRay","path":"scripts/detectRay/detectRay.yy",},"order":2,},
     {"id":{"name":"rm_alex","path":"rooms/rm_alex/rm_alex.yy",},"order":0,},
   ],
   "Options": [

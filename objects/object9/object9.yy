@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Platformer__2_",
+    "path": "sprites/Platformer__2_/Platformer__2_.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -25,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "platform",
-    "path": "folders/Objets/obj_collision/platform.yy",
+    "name": "Objets",
+    "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Platformer__1_",
+  "name": "Object9",
   "tags": [],
   "resourceType": "GMObject",
 }

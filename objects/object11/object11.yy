@@ -1,14 +1,14 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Signs__2_",
+    "path": "sprites/Signs__2_/Signs__2_.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_platform",
-    "path": "objects/obj_platform/obj_platform.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,11 +25,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "platform",
-    "path": "folders/Objets/obj_collision/platform.yy",
+    "name": "Objets",
+    "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Platformer__1_",
+  "name": "Object11",
   "tags": [],
   "resourceType": "GMObject",
 }

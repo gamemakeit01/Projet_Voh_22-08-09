@@ -1,6 +1,9 @@
 {
-  "spriteId": null,
-  "solid": false,
+  "spriteId": {
+    "name": "Cartoon_Town_Decoration___Wooden_Box",
+    "path": "sprites/Cartoon_Town_Decoration___Wooden_Box/Cartoon_Town_Decoration___Wooden_Box.yy",
+  },
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -25,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "platform",
-    "path": "folders/Objets/obj_collision/platform.yy",
+    "name": "Objets",
+    "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Platformer__1_",
+  "name": "Object10",
   "tags": [],
   "resourceType": "GMObject",
 }

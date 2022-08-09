@@ -19,6 +19,7 @@ function check_collision_verti(){
 }
 
 function check_collision_fall(){
-	if(place_empty(x,y + 0.5,obj_platform)) return true;
+	if(place_empty(x,y + 1,obj_platform)) return true;
 	else return false
 }
+

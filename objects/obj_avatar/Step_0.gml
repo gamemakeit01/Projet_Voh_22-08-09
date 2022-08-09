@@ -3,17 +3,17 @@
 //y =y+3;
 
 if !place_meeting(x, y+1, obj_platform){
-	y +=5
+	y +=grav
 	check_collision_verti();
 };
 
-if(keyboard_check(vk_left) && !place_meeting(x-3, y - 0.5, obj_platform)){
-	x -=3;
+if(keyboard_check(vk_left) && !place_meeting(x-speedRun, y - 0.5, obj_platform)){
+	x -=speedRun;
 	check_collision_hori();
 }
 
-if(keyboard_check(vk_right) && !place_meeting(x+3, y - 0.5, obj_platform)){
-	x +=3;
+if(keyboard_check(vk_right) && !place_meeting(x+speedRun, y - 0.5, obj_platform)){
+	x +=speedRun;
 	check_collision_hori();
 }
 

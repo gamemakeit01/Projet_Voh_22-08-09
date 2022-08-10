@@ -18,8 +18,10 @@ for(var line_length = 0;line_length < ray_length; line_length++){
 	}
 if (statut == PS.Att){ 
 	x = x + speedAtt * left_or_rigth ;
+	
 }
 else{
-x = x + speedRun * left_or_rigth ;
+	x = x + speedRun * left_or_rigth ;
+	
 }
 

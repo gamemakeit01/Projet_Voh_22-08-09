@@ -5,7 +5,8 @@
 left_or_rigth=-left_or_rigth;
 image_xscale= left_or_rigth  * abs(image_xscale);
 
-
+switchStatut(PS.Run);
+changeAnim();
 
 
 

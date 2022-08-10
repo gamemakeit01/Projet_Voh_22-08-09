@@ -12,6 +12,6 @@ PS = {
 }
 image_speed = 1;
 image_index = spr_barbare_idle;
-
+statut = PS.Idle;
 
 

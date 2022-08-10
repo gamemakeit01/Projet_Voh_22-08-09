@@ -2,7 +2,11 @@
 // You can write your code in this editor
 //y =y+3;
 
-
+if(statut != PS.Idle && xprevious == x && yprevious == y ){
+		show_debug_message(" je suis imobil")
+		switchStatut(PS.Idle);
+		changeAnim();
+}
 
 if !place_meeting(x, y+1, obj_platform){
 	y +=grav
@@ -46,11 +50,7 @@ if(isJump){
 	y = y - fjump;
 }
 
-if(statut != PS.Idle && xprevious == x && yprevious == y ){
-		show_debug_message(" je suis imobil")
-		switchStatut(PS.Idle);
-		changeAnim();
-}
+
 //if(animation == spr_barbare_run) show_debug_message("spr_barbare_run");//
 //image_speed = 1;
 //image_index=animation;

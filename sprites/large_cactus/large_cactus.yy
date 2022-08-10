@@ -1,15 +1,15 @@
 {
   "bboxMode": 0,
-  "collisionKind": 0,
+  "collisionKind": 1,
   "type": 0,
   "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 127,
-  "bbox_top": 0,
+  "bbox_left": 22,
+  "bbox_right": 105,
+  "bbox_top": 12,
   "bbox_bottom": 127,
   "HTile": false,
   "VTile": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"LayerId":{"name":"7d0e9462-e772-4514-97c4-caffe056793b","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","name":"e25c2b40-bc0a-46d9-b031-634468e69506","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ba345a9b-839e-4127-bca4-8c60e47342a0","path":"sprites/Large_Cactus/Large_Cactus.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ba345a9b-839e-4127-bca4-8c60e47342a0","path":"sprites/Large_Cactus/Large_Cactus.yy",},"LayerId":{"name":"339960a7-067d-43ed-882c-18dca6eb8384","path":"sprites/Large_Cactus/Large_Cactus.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Large_Cactus","path":"sprites/Large_Cactus/Large_Cactus.yy",},"resourceVersion":"1.0","name":"ba345a9b-839e-4127-bca4-8c60e47342a0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},
+    "spriteId": {"name":"Large_Cactus","path":"sprites/Large_Cactus/Large_Cactus.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a2d320e7-1b17-4af1-96d4-46806ce4a541","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"34d5baa6-b8f9-4e84-9555-30bd1ad78427","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ba345a9b-839e-4127-bca4-8c60e47342a0","path":"sprites/Large_Cactus/Large_Cactus.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},
+    "parent": {"name":"Large_Cactus","path":"sprites/Large_Cactus/Large_Cactus.yy",},
     "resourceVersion": "1.4",
-    "name": "Platformer__1_",
+    "name": "Large_Cactus",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7d0e9462-e772-4514-97c4-caffe056793b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"339960a7-067d-43ed-882c-18dca6eb8384","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Tile sets/platformer.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Platformer__1_",
+  "name": "Large_Cactus",
   "tags": [],
   "resourceType": "GMSprite",
 }

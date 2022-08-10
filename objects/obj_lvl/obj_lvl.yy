@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Top_Down_Forest_Tileset_Environment___Grass_01",
-    "path": "sprites/Top_Down_Forest_Tileset_Environment___Grass_01/Top_Down_Forest_Tileset_Environment___Grass_01.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,7 +18,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":82,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -29,7 +28,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object21",
+  "name": "obj_lvl",
   "tags": [],
   "resourceType": "GMObject",
 }

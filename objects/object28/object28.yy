@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Top_Down_Forest_Tileset_Environment___Grass_01",
-    "path": "sprites/Top_Down_Forest_Tileset_Environment___Grass_01/Top_Down_Forest_Tileset_Environment___Grass_01.yy",
+    "name": "Top_Down_Forest_Tileset_Environment___Fence_01",
+    "path": "sprites/Top_Down_Forest_Tileset_Environment___Fence_01/Top_Down_Forest_Tileset_Environment___Fence_01.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,7 +29,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object21",
+  "name": "Object28",
   "tags": [],
   "resourceType": "GMObject",
 }

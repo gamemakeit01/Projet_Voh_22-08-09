@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Platformer__10_",
-    "path": "sprites/Platformer__10_/Platformer__10_.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

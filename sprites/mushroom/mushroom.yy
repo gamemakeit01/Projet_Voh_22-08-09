@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 127,
-  "bbox_top": 0,
+  "bbox_left": 4,
+  "bbox_right": 120,
+  "bbox_top": 56,
   "bbox_bottom": 127,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
+  "width": 125,
   "height": 128,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"LayerId":{"name":"7d0e9462-e772-4514-97c4-caffe056793b","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","name":"e25c2b40-bc0a-46d9-b031-634468e69506","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ef999a19-bf35-4606-a773-63164a50e733","path":"sprites/Mushroom/Mushroom.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ef999a19-bf35-4606-a773-63164a50e733","path":"sprites/Mushroom/Mushroom.yy",},"LayerId":{"name":"6a4840d0-adb1-487c-9918-9633febe77cd","path":"sprites/Mushroom/Mushroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Mushroom","path":"sprites/Mushroom/Mushroom.yy",},"resourceVersion":"1.0","name":"ef999a19-bf35-4606-a773-63164a50e733","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},
+    "spriteId": {"name":"Mushroom","path":"sprites/Mushroom/Mushroom.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a2d320e7-1b17-4af1-96d4-46806ce4a541","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e25c2b40-bc0a-46d9-b031-634468e69506","path":"sprites/Platformer__1_/Platformer__1_.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"27502341-2979-4656-99a0-f70ef9a3cf07","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ef999a19-bf35-4606-a773-63164a50e733","path":"sprites/Mushroom/Mushroom.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},
+    "parent": {"name":"Mushroom","path":"sprites/Mushroom/Mushroom.yy",},
     "resourceVersion": "1.4",
-    "name": "Platformer__1_",
+    "name": "Mushroom",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7d0e9462-e772-4514-97c4-caffe056793b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6a4840d0-adb1-487c-9918-9633febe77cd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Tile sets/platformer.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Platformer__1_",
+  "name": "Mushroom",
   "tags": [],
   "resourceType": "GMSprite",
 }

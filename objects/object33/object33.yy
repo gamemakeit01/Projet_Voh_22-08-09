@@ -1,14 +1,17 @@
 {
   "spriteId": {
-    "name": "Top_Down_Forest_Tileset_Environment___Grass_01",
-    "path": "sprites/Top_Down_Forest_Tileset_Environment___Grass_01/Top_Down_Forest_Tileset_Environment___Grass_01.yy",
+    "name": "Mushroom",
+    "path": "sprites/Mushroom/Mushroom.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_dead",
+    "path": "objects/obj_dead/obj_dead.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -29,7 +32,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object21",
+  "name": "Object33",
   "tags": [],
   "resourceType": "GMObject",
 }

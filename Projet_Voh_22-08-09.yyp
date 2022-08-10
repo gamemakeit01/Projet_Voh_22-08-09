@@ -93,6 +93,7 @@
     {"id":{"name":"Object14","path":"objects/Object14/Object14.yy",},"order":13,},
     {"id":{"name":"spr_barbare_run_Slashing","path":"sprites/spr_barbare_run_Slashing/spr_barbare_run_Slashing.yy",},"order":5,},
     {"id":{"name":"spr_monstre05_Smoke","path":"sprites/spr_monstre05_Smoke/spr_monstre05_Smoke.yy",},"order":5,},
+    {"id":{"name":"obj_FeuFX","path":"objects/obj_FeuFX/obj_FeuFX.yy",},"order":0,},
     {"id":{"name":"spr_Rat_Samourai_Walking","path":"sprites/spr_Rat_Samourai_Walking/spr_Rat_Samourai_Walking.yy",},"order":5,},
     {"id":{"name":"Platformer__10_","path":"sprites/Platformer__10_/Platformer__10_.yy",},"order":5,},
     {"id":{"name":"Platformer__7_","path":"sprites/Platformer__7_/Platformer__7_.yy",},"order":2,},
@@ -198,6 +199,8 @@
     {"folderPath":"folders/Objets/obj_collision/platform.yy","order":1,"resourceVersion":"1.0","name":"platform","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Avatars_Player/spr_Avatar_Archer01.yy","order":2,"resourceVersion":"1.0","name":"spr_Avatar_Archer01","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Avatars_Player/Perso début.yy","order":3,"resourceVersion":"1.0","name":"Perso début","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objets/obj_FX.yy","order":22,"resourceVersion":"1.0","name":"obj_FX","tags":[],"resourceType":"GMFolder",},
+
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

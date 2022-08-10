@@ -48,6 +48,7 @@ if(keyboard_check_released(vk_up)){
 
 if(isJump){
 	y = y - fjump;
+	check_collision_verti(obj_platform)
 }
 
 

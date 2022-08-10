@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "platform",
+    "path": "folders/Objets/obj_collision/platform.yy",
   },
   "resourceVersion": "1.0",
   "name": "Object31",

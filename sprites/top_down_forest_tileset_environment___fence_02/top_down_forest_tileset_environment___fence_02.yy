@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "platformer",
-    "path": "folders/Tile sets/platformer.yy",
+    "path": "folders/Sprites/platformer.yy",
   },
   "resourceVersion": "1.0",
   "name": "Top_Down_Forest_Tileset_Environment___Fence_02",

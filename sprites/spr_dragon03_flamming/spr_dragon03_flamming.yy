@@ -137,8 +137,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Dragon03",
-    "path": "folders/Sprites/spr_avatars/spr_Ennemi/Dragon03.yy",
+    "name": "dragon03",
+    "path": "folders/Sprites/spr_avatars/spr_Ennemi/dragon03.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_dragon03_Flamming",

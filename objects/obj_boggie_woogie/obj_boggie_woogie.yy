@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "obj_collision",
+    "path": "folders/Objets/obj_collision.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_Boggie_Woogie",

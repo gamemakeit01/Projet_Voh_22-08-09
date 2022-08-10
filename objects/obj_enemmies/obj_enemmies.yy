@@ -43,8 +43,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "obj_ennemis",
+    "path": "folders/Objets/obj_ennemis.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_enemmies",

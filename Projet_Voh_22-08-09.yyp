@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"rm_levelTeste","path":"rooms/rm_levelTeste/rm_levelTeste.yy",},"order":5,},
     {"id":{"name":"Cartoon_Town___Custom_Decoration___Spikes","path":"sprites/Cartoon_Town___Custom_Decoration___Spikes/Cartoon_Town___Custom_Decoration___Spikes.yy",},"order":19,},
     {"id":{"name":"spr_King_Mommy_Walking","path":"sprites/spr_King_Mommy_Walking/spr_King_Mommy_Walking.yy",},"order":3,},
     {"id":{"name":"spr_monstre01_Dying","path":"sprites/spr_monstre01_Dying/spr_monstre01_Dying.yy",},"order":4,},
@@ -154,6 +155,7 @@
     {"roomId":{"name":"rm_paul","path":"rooms/rm_paul/rm_paul.yy",},},
     {"roomId":{"name":"rm_hassan","path":"rooms/rm_hassan/rm_hassan.yy",},},
     {"roomId":{"name":"rm_04","path":"rooms/rm_04/rm_04.yy",},},
+    {"roomId":{"name":"rm_levelTeste","path":"rooms/rm_levelTeste/rm_levelTeste.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -175,8 +177,8 @@
     {"folderPath":"folders/Objets/obj_collision.yy","order":1,"resourceVersion":"1.0","name":"obj_collision","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objets/obj_HUD.yy","order":2,"resourceVersion":"1.0","name":"obj_HUD","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_UHD.yy","order":3,"resourceVersion":"1.0","name":"spr_UHD","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Pièces/rm_travail.yy","order":3,"resourceVersion":"1.0","name":"rm_travail","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Pièces/rm_lvl.yy","order":4,"resourceVersion":"1.0","name":"rm_lvl","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Pièces/rm_travail.yy","order":0,"resourceVersion":"1.0","name":"rm_travail","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Pièces/rm_lvl.yy","order":1,"resourceVersion":"1.0","name":"rm_lvl","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Avatars_Player.yy","order":1,"resourceVersion":"1.0","name":"spr_Avatars_Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Ennemi.yy","order":2,"resourceVersion":"1.0","name":"spr_Ennemi","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Ennemi/King_mommy.yy","order":0,"resourceVersion":"1.0","name":"King_mommy","tags":[],"resourceType":"GMFolder",},

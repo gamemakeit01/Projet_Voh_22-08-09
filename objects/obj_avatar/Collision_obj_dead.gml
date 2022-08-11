@@ -2,4 +2,4 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 
-instance_destroy();
+vie=vie-1;

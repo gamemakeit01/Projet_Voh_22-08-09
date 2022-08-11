@@ -22,8 +22,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_collision",
-    "path": "folders/Objets/obj_collision.yy",
+    "name": "obj_HUD",
+    "path": "folders/Objets/obj_HUD.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_dead",

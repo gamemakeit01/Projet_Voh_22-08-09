@@ -76,7 +76,7 @@
     {"id":{"name":"Top_Down_Forest_Tileset_Environment___Fence_02","path":"sprites/Top_Down_Forest_Tileset_Environment___Fence_02/Top_Down_Forest_Tileset_Environment___Fence_02.yy",},"order":28,},
     {"id":{"name":"spr_Rat_Samourai_Idle","path":"sprites/spr_Rat_Samourai_Idle/spr_Rat_Samourai_Idle.yy",},"order":6,},
     {"id":{"name":"spr_monstre03_Smoke","path":"sprites/spr_monstre03_Smoke/spr_monstre03_Smoke.yy",},"order":5,},
-    {"id":{"name":"obj_dead","path":"objects/obj_dead/obj_dead.yy",},"order":2,},
+    {"id":{"name":"obj_dead","path":"objects/obj_dead/obj_dead.yy",},"order":1,},
     {"id":{"name":"spr_monstre01_Running_Slashing","path":"sprites/spr_monstre01_Running_Slashing/spr_monstre01_Running_Slashing.yy",},"order":5,},
     {"id":{"name":"Object15","path":"objects/Object15/Object15.yy",},"order":1,},
     {"id":{"name":"spr_barbare_run","path":"sprites/spr_barbare_run/spr_barbare_run.yy",},"order":4,},

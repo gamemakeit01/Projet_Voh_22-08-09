@@ -25,6 +25,7 @@
     {"id":{"name":"Top_Down_Forest_Tileset_Environment___Grass_02","path":"sprites/Top_Down_Forest_Tileset_Environment___Grass_02/Top_Down_Forest_Tileset_Environment___Grass_02.yy",},"order":17,},
     {"id":{"name":"Object33","path":"objects/Object33/Object33.yy",},"order":14,},
     {"id":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"order":1,},
+    {"id":{"name":"obj_Random","path":"objects/obj_Random/obj_Random.yy",},"order":2,},
     {"id":{"name":"spr_dragon02_Moving","path":"sprites/spr_dragon02_Moving/spr_dragon02_Moving.yy",},"order":3,},
     {"id":{"name":"spr_Avatar_Archer01_Idle","path":"sprites/spr_Avatar_Archer01_Idle/spr_Avatar_Archer01_Idle.yy",},"order":2,},
     {"id":{"name":"spr_monstre02_Running_Slashing","path":"sprites/spr_monstre02_Running_Slashing/spr_monstre02_Running_Slashing.yy",},"order":4,},

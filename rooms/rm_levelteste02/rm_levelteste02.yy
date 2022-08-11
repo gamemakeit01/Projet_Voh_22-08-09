@@ -15,7 +15,10 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_lvl","path":"objects/obj_lvl/obj_lvl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1728.0,"y":800.0,"resourceVersion":"1.0","name":"inst_5E1CF34D","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_archer01","path":"objects/obj_archer01/obj_archer01.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1456.0,"y":640.0,"resourceVersion":"1.0","name":"inst_61D8B77D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_archer01","path":"objects/obj_archer01/obj_archer01.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":144.0,"y":624.0,"resourceVersion":"1.0","name":"inst_61D8B77D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mommy","path":"objects/obj_mommy/obj_mommy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.16444445,"scaleY":0.14666666,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":720.7111,"y":558.0444,"resourceVersion":"1.0","name":"inst_97A9B3B","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Boggie_Woogie","path":"objects/obj_Boggie_Woogie/obj_Boggie_Woogie.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":39.399998,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":912.0,"y":464.0,"resourceVersion":"1.0","name":"inst_74273061","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Boggie_Woogie","path":"objects/obj_Boggie_Woogie/obj_Boggie_Woogie.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":39.4,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":432.0,"resourceVersion":"1.0","name":"inst_1ACF793D","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"avatar","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[
@@ -62,6 +65,9 @@
     {"name":"inst_4365EA5D","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
     {"name":"inst_7936CBCE","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
     {"name":"inst_1DCC21A0","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
+    {"name":"inst_97A9B3B","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
+    {"name":"inst_74273061","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
+    {"name":"inst_1ACF793D","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

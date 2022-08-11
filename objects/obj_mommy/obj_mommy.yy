@@ -26,17 +26,21 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Boggie_Woogie","path":"objects/obj_Boggie_Woogie/obj_Boggie_Woogie.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":5,"value":"spr_King_Mommy_Run_Slashing","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"ani_runAtt","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":0,"value":"150","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"distanceSlash","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [
     {"propertyId":{"name":"animation","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"spr_King_Mommy_Walking","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"ani_att","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"spr_King_Mommy_Run","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"ani_run","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"spr_King_Mommy_Walking","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"ani_die","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"spr_King_Mommy_Dying","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"statut","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"PS.Run","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"ray_length","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"250","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"speedAtt","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"3.5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"speedRun","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"ani_att","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"objectId":{"name":"obj_enemmiesMove","path":"objects/obj_enemmiesMove/obj_enemmiesMove.yy",},"value":"spr_King_Mommy_Run","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "obj_ennemis",

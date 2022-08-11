@@ -7,5 +7,5 @@ if ( other.statut == PS.RunAtt && isInvicible != true ){
 	alarm_set(1,50);
 }
 
-show_debug_message("vie: "+string(vie))
+//show_debug_message("vie: "+string(vie))
 

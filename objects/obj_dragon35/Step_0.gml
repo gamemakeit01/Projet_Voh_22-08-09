@@ -28,16 +28,16 @@ chasse = false;
 
 if(chasse){
 	var _obj=instance_find(obj_avatar,0);
-	move_towards_point(_obj.x,_obj.y,speed);
+	move_towards_point(_obj.x,_obj.y,speedAtt);
 	
 }
 else{
 	if(ystart < y){
 		hspeed = 0;
-		vspeed = -speed;
+		vspeed = -speedRun;
 	}
 	else{
-	hspeed = speed * left_or_rigth;
+	hspeed = speedRun * left_or_rigth;
 	vspeed = 0;
 	}
 }

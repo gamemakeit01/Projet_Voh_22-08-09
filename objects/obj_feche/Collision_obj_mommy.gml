@@ -2,9 +2,10 @@
 // You can write your code in this editor
 
 
+other.vie =  other.vie -1;
+instance_destroy();
 
-instance_create_depth(x+0.15*120,y-0.15*118,0,obj_feche);
-
+show_debug_message(other.vie);
 
 
 

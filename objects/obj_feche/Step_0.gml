@@ -1,16 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-x = x + vitesse;
+x = x + vitesse * left_or_rigth;
 
-show_debug_message(alarm[0]);
-
-
-
-
-
-
-
-
+show_debug_message("id: " + string(id) + " xscale: " + string(image_xscale));
 
 

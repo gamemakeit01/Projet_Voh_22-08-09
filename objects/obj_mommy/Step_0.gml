@@ -4,7 +4,7 @@
 
 /// @description Insert description here
 // You can write your code in this editor
-
+if(statut != PS.Die){
 if ( statut == PS.RunAtt ){
 	sprite_index = ani_run;
 }
@@ -32,8 +32,14 @@ else{
 	// Inherit the parent event
 	x = x + speedRun * left_or_rigth ;
 }
-
-
-
-
-
+if(vie <= 0){
+	switchStatut(PS.Die)
+	changeAnim();
+}
+}
+else{
+	if(image_index >= image_number - 1 && image_speed !=0 ){
+		image_speed = 0;
+		alarm_set(0,60);
+	}
+}

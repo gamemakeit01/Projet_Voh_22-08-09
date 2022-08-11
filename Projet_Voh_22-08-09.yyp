@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_dragon35","path":"objects/obj_dragon35/obj_dragon35.yy",},"order":6,},
     {"id":{"name":"rm_levelTeste","path":"rooms/rm_levelTeste/rm_levelTeste.yy",},"order":5,},
     {"id":{"name":"Cartoon_Town___Custom_Decoration___Spikes","path":"sprites/Cartoon_Town___Custom_Decoration___Spikes/Cartoon_Town___Custom_Decoration___Spikes.yy",},"order":19,},
     {"id":{"name":"spr_King_Mommy_Walking","path":"sprites/spr_King_Mommy_Walking/spr_King_Mommy_Walking.yy",},"order":3,},

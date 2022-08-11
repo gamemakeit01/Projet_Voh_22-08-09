@@ -9,6 +9,7 @@ enum PS{
 	Die,
 	Fall,
 	Idle
+	
 }
 
 function invScale(i){

@@ -72,5 +72,8 @@ if(isAtt  && image_index > image_number - 1 ){ // s'il att
 //if(animation == spr_barbare_run) show_debug_message("spr_barbare_run");//
 //image_speed = 1;
 //image_index=animation;
-
+if ( vie==0 ){
+	switchStatut(PS.Die);
+	changeAnim();
+}
 

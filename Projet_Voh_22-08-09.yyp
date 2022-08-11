@@ -107,6 +107,7 @@
     {"id":{"name":"spr_monstre04_Smoke","path":"sprites/spr_monstre04_Smoke/spr_monstre04_Smoke.yy",},"order":5,},
     {"id":{"name":"spr_Avtar_Random_Falling","path":"sprites/spr_Avtar_Random_Falling/spr_Avtar_Random_Falling.yy",},"order":7,},
     {"id":{"name":"Object14","path":"objects/Object14/Object14.yy",},"order":0,},
+    {"id":{"name":"spr_feche","path":"sprites/spr_feche/spr_feche.yy",},"order":0,},
     {"id":{"name":"spr_barbare_run_Slashing","path":"sprites/spr_barbare_run_Slashing/spr_barbare_run_Slashing.yy",},"order":5,},
     {"id":{"name":"spr_monstre05_Smoke","path":"sprites/spr_monstre05_Smoke/spr_monstre05_Smoke.yy",},"order":5,},
     {"id":{"name":"obj_FeuFX","path":"objects/obj_FeuFX/obj_FeuFX.yy",},"order":0,},
@@ -227,6 +228,7 @@
     {"folderPath":"folders/Objets/obj_FX.yy","order":22,"resourceVersion":"1.0","name":"obj_FX","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objets/obj_ennemis.yy","order":34,"resourceVersion":"1.0","name":"obj_ennemis","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objets/obj_collision/environement.yy","order":4,"resourceVersion":"1.0","name":"environement","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/spr_avatars/spr_Items.yy","order":3,"resourceVersion":"1.0","name":"spr_Items","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

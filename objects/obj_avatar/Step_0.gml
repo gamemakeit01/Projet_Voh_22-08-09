@@ -2,8 +2,10 @@
 // You can write your code in this editor
 //y =y+3;
 
-if(statut != PS.Idle && xprevious == x && yprevious == y ){
-		show_debug_message(" je suis imobil")
+
+
+if(statut != PS.Idle && xprevious == x && yprevious == y  && !isAtt ){
+		//show_debug_message(" je suis imobil")
 		switchStatut(PS.Idle);
 		changeAnim();
 }
@@ -46,11 +48,26 @@ if(keyboard_check_released(vk_up)){
 	isJump = false;
 }
 
+if(keyboard_check_pressed(vk_space) && statut != PS.Att && !isAtt){
+	isAtt = true;
+	switchStatut(PS.Att);
+	changeAnim();
+	image_index = 0;
+}
+
 if(isJump){
 	y = y - fjump;
 	check_collision_verti(obj_platform)
 }
 
+if(yprevious - y < 0 && statut != PS.Fall){
+	switchStatut(PS.Fall);
+	changeAnim();
+}
+
+if(isAtt  && image_index > image_number - 1 ){
+	isAtt = false;
+}
 
 //if(animation == spr_barbare_run) show_debug_message("spr_barbare_run");//
 //image_speed = 1;

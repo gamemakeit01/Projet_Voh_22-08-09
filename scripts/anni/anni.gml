@@ -25,7 +25,7 @@ function changeAnim(){
 			break;
 			case PS.Run:
 				animation=ani_run;
-				show_debug_message("ani_run")
+				//show_debug_message("ani_run")
 			break;
 			case PS.RunAtt:
 				animation=ani_runAtt;
@@ -40,7 +40,7 @@ function changeAnim(){
 				animation=ani_idle;
 			break;
 	}
-if(animation == spr_barbare_run) show_debug_message("spr_barbare_run");//
+//if(animation == spr_barbare_run) show_debug_message("spr_barbare_run");//
 sprite_index = animation;
 	
 }
@@ -54,7 +54,7 @@ function switchStatut(_statut){
 		break;
 		case PS.Run:
 			statut= PS.Run;
-			show_debug_message("run");
+			//show_debug_message("run");
 		break;
 		case PS.RunAtt:
 			statut= PS.RunAtt;
@@ -67,7 +67,7 @@ function switchStatut(_statut){
 		break;
 		case PS.Idle :
 			statut= PS.Idle;
-			show_debug_message("idle");
+			//show_debug_message("idle");
 		break;
 	}
 }

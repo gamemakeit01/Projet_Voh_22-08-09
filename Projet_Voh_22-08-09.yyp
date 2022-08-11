@@ -57,6 +57,7 @@
     {"id":{"name":"rm_hassan","path":"rooms/rm_hassan/rm_hassan.yy",},"order":3,},
     {"id":{"name":"Platformer__11_","path":"sprites/Platformer__11_/Platformer__11_.yy",},"order":10,},
     {"id":{"name":"obj_mommy","path":"objects/obj_mommy/obj_mommy.yy",},"order":4,},
+    {"id":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},"order":8,},
     {"id":{"name":"Object32","path":"objects/Object32/Object32.yy",},"order":13,},
     {"id":{"name":"obj_dragon","path":"objects/obj_dragon/obj_dragon.yy",},"order":5,},
     {"id":{"name":"Top_Down_Forest_Tileset_Environment___Fence_01","path":"sprites/Top_Down_Forest_Tileset_Environment___Fence_01/Top_Down_Forest_Tileset_Environment___Fence_01.yy",},"order":22,},
@@ -146,6 +147,7 @@
     {"roomId":{"name":"rm_levelTeste","path":"rooms/rm_levelTeste/rm_levelTeste.yy",},},
     {"roomId":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},},
     {"roomId":{"name":"rm_levelTeste02","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},},
+    {"roomId":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -182,7 +184,7 @@
     {"folderPath":"folders/Sprites/spr_avatars/spr_Avatars_Player/Perso début.yy","order":3,"resourceVersion":"1.0","name":"Perso début","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objets/obj_FX.yy","order":22,"resourceVersion":"1.0","name":"obj_FX","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objets/obj_ennemis.yy","order":34,"resourceVersion":"1.0","name":"obj_ennemis","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Objets/obj_collision/environement.yy","order":4,"resourceVersion":"1.0","name":"environement","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objets/obj_collision/environement.yy","order":2,"resourceVersion":"1.0","name":"environement","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_avatars/spr_Items.yy","order":3,"resourceVersion":"1.0","name":"spr_Items","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [

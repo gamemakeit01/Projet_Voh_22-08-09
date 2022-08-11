@@ -35,8 +35,8 @@
     {"propertyId":{"name":"ani_fall","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"spr_Avtar_Random_Falling","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"ani_jump","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"spr_Avtar_Random_Jump","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"ani_runAtt","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"spr_Avtar_Random_Run_Slashing","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"image_xscale","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"0.25","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"image_yscale","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"0.25","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"image_xscale","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"0.15","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"image_yscale","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"0.15","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "obj_avatars",

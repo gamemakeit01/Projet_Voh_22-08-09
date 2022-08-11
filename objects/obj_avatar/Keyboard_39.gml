@@ -1,5 +1,9 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-image_speed = 1;
-statut = PS.Idle;
+
+left_or_rigth=1;
+
+image_xscale= left_or_rigth  * abs(image_xscale);
+
+

@@ -8,7 +8,7 @@ if(dbDraw){
 		var xx = x + lengthdir_x(line_length,i);
 		var yy = y - 25; 
 		//if(position_empty(xx,yy) == false){
-			if(position_meeting(xx,yy,obj_platform) != false ){
+			if(position_meeting(xx,yy,obj_avatar) != false ){
 				draw_set_color(c_red);
 				draw_circle(xx,yy,5,false);
 				break;

@@ -56,6 +56,7 @@
     {"id":{"name":"Signs__2_","path":"sprites/Signs__2_/Signs__2_.yy",},"order":11,},
     {"id":{"name":"rm_hassan","path":"rooms/rm_hassan/rm_hassan.yy",},"order":3,},
     {"id":{"name":"Platformer__11_","path":"sprites/Platformer__11_/Platformer__11_.yy",},"order":10,},
+    {"id":{"name":"obj_feche","path":"objects/obj_feche/obj_feche.yy",},"order":3,},
     {"id":{"name":"obj_mommy","path":"objects/obj_mommy/obj_mommy.yy",},"order":4,},
     {"id":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},"order":8,},
     {"id":{"name":"Object32","path":"objects/Object32/Object32.yy",},"order":13,},

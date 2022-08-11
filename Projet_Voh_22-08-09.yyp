@@ -29,6 +29,7 @@
     {"id":{"name":"spr_King_Mommy_Kiking","path":"sprites/spr_King_Mommy_Kiking/spr_King_Mommy_Kiking.yy",},"order":2,},
     {"id":{"name":"obj_butonGo2Rm","path":"objects/obj_butonGo2Rm/obj_butonGo2Rm.yy",},"order":0,},
     {"id":{"name":"Object30","path":"objects/Object30/Object30.yy",},"order":0,},
+    {"id":{"name":"spr_coeur","path":"sprites/spr_coeur/spr_coeur.yy",},"order":1,},
     {"id":{"name":"spr_Rat_Samourai_Kiking","path":"sprites/spr_Rat_Samourai_Kiking/spr_Rat_Samourai_Kiking.yy",},"order":7,},
     {"id":{"name":"spr_monstre02_Idle","path":"sprites/spr_monstre02_Idle/spr_monstre02_Idle.yy",},"order":3,},
     {"id":{"name":"spr_Avatar_Archer01_Run_shoting","path":"sprites/spr_Avatar_Archer01_Run_shoting/spr_Avatar_Archer01_Run_shoting.yy",},"order":5,},

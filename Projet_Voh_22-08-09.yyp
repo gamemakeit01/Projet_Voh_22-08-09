@@ -83,6 +83,7 @@
     {"id":{"name":"spr_monstre06_Walking","path":"sprites/spr_monstre06_Walking/spr_monstre06_Walking.yy",},"order":6,},
     {"id":{"name":"Layer_04","path":"sprites/Layer_04/Layer_04.yy",},"order":18,},
     {"id":{"name":"Cartoon_Town_Decoration___Large_Tree","path":"sprites/Cartoon_Town_Decoration___Large_Tree/Cartoon_Town_Decoration___Large_Tree.yy",},"order":13,},
+    {"id":{"name":"panneau_danger","path":"sprites/panneau_danger/panneau_danger.yy",},"order":30,},
     {"id":{"name":"Object17","path":"objects/Object17/Object17.yy",},"order":3,},
     {"id":{"name":"spr_dragon01_Idle","path":"sprites/spr_dragon01_Idle/spr_dragon01_Idle.yy",},"order":0,},
     {"id":{"name":"Object27","path":"objects/Object27/Object27.yy",},"order":10,},

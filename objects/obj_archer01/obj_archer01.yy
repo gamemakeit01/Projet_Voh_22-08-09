@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"ani_idle","path":"objects/obj_avatar/obj_avatar.yy",},"objectId":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},"value":"spr_Avatar_Archer01_Idle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

@@ -143,6 +143,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_mere","path":"rooms/rm_mere/rm_mere.yy",},},
     {"roomId":{"name":"rm_paul","path":"rooms/rm_paul/rm_paul.yy",},},
@@ -151,7 +152,6 @@
     {"roomId":{"name":"rm_levelTeste","path":"rooms/rm_levelTeste/rm_levelTeste.yy",},},
     {"roomId":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},},
     {"roomId":{"name":"rm_levelTeste02","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},},
-    {"roomId":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},},
     {"roomId":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},},
   ],
   "Folders": [

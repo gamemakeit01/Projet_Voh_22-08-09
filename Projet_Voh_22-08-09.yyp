@@ -29,6 +29,7 @@
     {"id":{"name":"rm_mere","path":"rooms/rm_mere/rm_mere.yy",},"order":2,},
     {"id":{"name":"spr_King_Mommy_Kiking","path":"sprites/spr_King_Mommy_Kiking/spr_King_Mommy_Kiking.yy",},"order":2,},
     {"id":{"name":"obj_butonGo2Rm","path":"objects/obj_butonGo2Rm/obj_butonGo2Rm.yy",},"order":0,},
+    {"id":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},"order":10,},
     {"id":{"name":"spr_coeur","path":"sprites/spr_coeur/spr_coeur.yy",},"order":1,},
     {"id":{"name":"spr_Rat_Samourai_Kiking","path":"sprites/spr_Rat_Samourai_Kiking/spr_Rat_Samourai_Kiking.yy",},"order":7,},
     {"id":{"name":"spr_monstre02_Idle","path":"sprites/spr_monstre02_Idle/spr_monstre02_Idle.yy",},"order":3,},
@@ -151,6 +152,7 @@
     {"roomId":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},},
     {"roomId":{"name":"rm_levelTeste02","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},},
     {"roomId":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},},
+    {"roomId":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

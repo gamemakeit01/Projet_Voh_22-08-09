@@ -163,6 +163,23 @@
   "creationCodeFile": "${project_dir}/rooms/rm_levelTeste/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
+<<<<<<< HEAD
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+=======
     {"name":"inst_5A1F98CE","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_32CA2ED3","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_583B73C9","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
@@ -199,6 +216,7 @@
     {"name":"inst_393E40AC","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_2E962CBC","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_53DDCCA2","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+>>>>>>> 55f65c057699b8ec88916f87672ce6b5a66e1733
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

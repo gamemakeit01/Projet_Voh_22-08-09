@@ -29,6 +29,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Object22","path":"objects/Object22/Object22.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.8,"scaleY":0.8,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4543.0,"y":637.7999,"resourceVersion":"1.0","name":"inst_393E40AC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Object33","path":"objects/Object33/Object33.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.488,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4939.0,"y":624.99994,"resourceVersion":"1.0","name":"inst_2E962CBC","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_heal","path":"objects/obj_heal/obj_heal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":640.0,"resourceVersion":"1.0","name":"inst_53DDCCA2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"objets","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Cartoon_Town_Decoration___Large_Tree","path":"sprites/Cartoon_Town_Decoration___Large_Tree/Cartoon_Town_Decoration___Large_Tree.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-94.0,"y":453.0,"resourceVersion":"1.0","name":"graphic_EA40A22","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -197,6 +198,7 @@
     {"name":"inst_681362BE","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_393E40AC","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
     {"name":"inst_2E962CBC","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
+    {"name":"inst_53DDCCA2","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -210,7 +212,7 @@
     "inheritViewSettings": false,
     "enableViews": true,
     "clearViewBackground": false,
-    "clearDisplayBuffer": true,
+    "clearDisplayBuffer": false,
   },
   "physicsSettings": {
     "inheritPhysicsSettings": false,

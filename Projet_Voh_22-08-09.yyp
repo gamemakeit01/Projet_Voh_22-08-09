@@ -10,6 +10,7 @@
     {"id":{"name":"rm_menu02","path":"rooms/rm_menu02/rm_menu02.yy",},"order":11,},
     {"id":{"name":"Object29","path":"objects/Object29/Object29.yy",},"order":12,},
     {"id":{"name":"spr_King_Mommy_Slashing","path":"sprites/spr_King_Mommy_Slashing/spr_King_Mommy_Slashing.yy",},"order":7,},
+    {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},"order":0,},
     {"id":{"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},"order":26,},
     {"id":{"name":"spr_Avatar_Archer01_Saut","path":"sprites/spr_Avatar_Archer01_Saut/spr_Avatar_Archer01_Saut.yy",},"order":3,},
     {"id":{"name":"spr_button_defaut","path":"sprites/spr_button_defaut/spr_button_defaut.yy",},"order":0,},
@@ -155,6 +156,7 @@
     {"roomId":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},},
     {"roomId":{"name":"rm_levelTeste02","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},},
     {"roomId":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},},
+    {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

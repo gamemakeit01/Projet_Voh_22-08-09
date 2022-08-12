@@ -7,6 +7,7 @@
     {"id":{"name":"Platformer__3_","path":"sprites/Platformer__3_/Platformer__3_.yy",},"order":27,},
     {"id":{"name":"rm_04","path":"rooms/rm_04/rm_04.yy",},"order":4,},
     {"id":{"name":"spr_Avatar_Archer01_Dying","path":"sprites/spr_Avatar_Archer01_Dying/spr_Avatar_Archer01_Dying.yy",},"order":0,},
+    {"id":{"name":"rm_menu02","path":"rooms/rm_menu02/rm_menu02.yy",},"order":11,},
     {"id":{"name":"Object29","path":"objects/Object29/Object29.yy",},"order":12,},
     {"id":{"name":"spr_King_Mommy_Slashing","path":"sprites/spr_King_Mommy_Slashing/spr_King_Mommy_Slashing.yy",},"order":7,},
     {"id":{"name":"Platformer__1_","path":"sprites/Platformer__1_/Platformer__1_.yy",},"order":26,},
@@ -143,6 +144,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_menu02","path":"rooms/rm_menu02/rm_menu02.yy",},},
     {"roomId":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_mere","path":"rooms/rm_mere/rm_mere.yy",},},

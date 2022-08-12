@@ -30,8 +30,8 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_2593AB90","path":"rooms/rm_menu02/rm_menu02.yy",},
-    {"name":"inst_16113FB3","path":"rooms/rm_menu02/rm_menu02.yy",},
+    {"name":"rm_menu02","path":"rooms/rm_menu02/rm_menu02.yy",},
+    {"name":"rm_menu02","path":"rooms/rm_menu02/rm_menu02.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

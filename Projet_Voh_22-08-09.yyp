@@ -68,6 +68,7 @@
     {"id":{"name":"Object15","path":"objects/Object15/Object15.yy",},"order":1,},
     {"id":{"name":"spr_monstre02_Dying","path":"sprites/spr_monstre02_Dying/spr_monstre02_Dying.yy",},"order":2,},
     {"id":{"name":"check_collision","path":"scripts/check_collision/check_collision.yy",},"order":0,},
+    {"id":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},"order":9,},
     {"id":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},"order":6,},
     {"id":{"name":"spr_Rat_Samourai_Running","path":"sprites/spr_Rat_Samourai_Running/spr_Rat_Samourai_Running.yy",},"order":2,},
     {"id":{"name":"Top_Down_Forest_Tileset_Environment___Grass_01","path":"sprites/Top_Down_Forest_Tileset_Environment___Grass_01/Top_Down_Forest_Tileset_Environment___Grass_01.yy",},"order":25,},
@@ -149,6 +150,7 @@
     {"roomId":{"name":"rm_levelTesteMere","path":"rooms/rm_levelTesteMere/rm_levelTesteMere.yy",},},
     {"roomId":{"name":"rm_levelTeste02","path":"rooms/rm_levelTeste02/rm_levelTeste02.yy",},},
     {"roomId":{"name":"rm_levelTeste03","path":"rooms/rm_levelTeste03/rm_levelTeste03.yy",},},
+    {"roomId":{"name":"rm_levelTeste04","path":"rooms/rm_levelTeste04/rm_levelTeste04.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
